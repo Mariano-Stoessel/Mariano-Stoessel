@@ -1,14 +1,15 @@
   
 <h1 align="center"><b>Hi , I'm Mariano Stoessel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
- 🌱 I'm currently learning **programing** in the university [UTN-FRGP](https://www.frgp.utn.edu.ar).
+  <img align="right" alt="coding" width="400px"     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+ 
+ 🌱 I'm currently learning **programing** in the university [UTN-FRGP](https://www.frgp.utn.edu.ar) .
  
  🎉THIS IS MY LAST YEAR🎉
  
  My English level is A2 for now....😉
  
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mariano-stoessel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mariano_stoessel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href = "mailto: marianstoessel1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 
 
