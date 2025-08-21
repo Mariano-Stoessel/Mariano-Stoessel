@@ -7,7 +7,7 @@
  
  🎉THIS IS MY LAST YEAR🎉
  
- My English level is A2 for now....😉
+ My English level is B1 for now....😉
  
 
 
